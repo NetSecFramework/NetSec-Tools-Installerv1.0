@@ -1,0 +1,4 @@
+1.Open  terminal
+2.Type python2 natsec.py
+
+And donee !!
